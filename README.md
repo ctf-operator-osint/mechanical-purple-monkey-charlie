@@ -16,7 +16,7 @@ i have timestamps. i have commit logs on this very repo from before the public d
 
 @lcfr_hax, credits where credits are due.
 
-Oh also, I usually keep my flag formats in the form UVCTF{<author_twitter_handle>_<cve_common_name>} - example - UV{proxy_log4shell}
+Oh also, I usually keep my flag formats in the form UVCTF{<author_twitter_handle>_<cve_common_name>} - example - UVCTF{proxy_log4shell}
 
 ---
 
